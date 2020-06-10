@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    float: left;
+    width: 500px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+   
+    
+}
+.main{
+    width: 800px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+    
+}
+a:hover{
+    color: yellow;
+}
+#righttop{
+    
+    font-size: 24px;  
+  
+
+    
+}
+#bottom{
+    font-size: 24px;
+    width: 800px;
+    clear: both;
+    height: 400px;
+    
+    
+}
+#left{
+    float: left;
+    width: 260px;
+    padding-right: 10px;
+}
+#right{
+    float: right;
+    width: 260px;
+    padding-left: 10px;
+   
+
+}
+
+p{
+   text-align: justify; 
+  color: blue;
+}
